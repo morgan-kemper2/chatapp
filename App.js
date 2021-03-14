@@ -5,6 +5,7 @@ import Chat from './components/chat';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
+
 const Stack = createStackNavigator();
 
 export default class App extends React.Component {
@@ -31,3 +32,6 @@ export default class App extends React.Component {
     );
   }
 }
+
+
+
