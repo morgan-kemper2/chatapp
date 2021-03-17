@@ -75,7 +75,6 @@ export default class Chat extends React.Component {
       this.setState({
         isConnected: true,
       });
-      console.log('online');
 
       this.authUnsubscribe = firebase
         .auth()
@@ -99,11 +98,8 @@ export default class Chat extends React.Component {
       });
       this.getMessages();
     }
-    console.log('offline');
   });
 }
-
-   
 
     onCollectionUpdate = (querySnapshot) => {
       const messages = [];
