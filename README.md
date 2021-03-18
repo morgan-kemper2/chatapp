@@ -25,3 +25,10 @@ A window will open in your browser, ensure that your smart phone and computer ar
 Once these steps are complete, you'll receive a screen on your phone or emulator stating "Open up App.js to start working on your app!"
 
 You can then begin writing your code.
+
+Link to Android Studio to download an Android Emulator
+https://developer.android.com/studio/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7t0m5NxPk1lgmZl6HWs0fl5uBneors7Eb6UlKQ-8kFlwp3kjjhp5XBoC3bUQAvD_BwE&gclsrc=aw.ds
+
+Mac users require Xcode to create an iOS simulator
+
+After installing XCode, open it up and head over to Preferences. From there, click Components and install a simulator from the list. Open the simulator, start your Expo project, and click Run on iOS simulator.
