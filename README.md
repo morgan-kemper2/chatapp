@@ -29,6 +29,6 @@ You can then begin writing your code.
 Link to Android Studio to download an Android Emulator
 https://developer.android.com/studio/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7t0m5NxPk1lgmZl6HWs0fl5uBneors7Eb6UlKQ-8kFlwp3kjjhp5XBoC3bUQAvD_BwE&gclsrc=aw.ds
 
-Mac users require Xcode to create an iOS simulator
+Mac users require Xcode to create an iOS simulator. Download it from the App Store.
 
 After installing XCode, open it up and head over to Preferences. From there, click Components and install a simulator from the list. Open the simulator, start your Expo project, and click Run on iOS simulator.
